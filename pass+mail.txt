@@ -1,0 +1,9 @@
+
+Admin:mail:admin@example.com
+pass:Admin123
+
+Teacher:mail:teacher@example.com
+pass:Admin123
+
+User:mail:user@example.com
+pass:Admin123
